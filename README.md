@@ -1,2 +1,2 @@
 # spark-practice
-Repository for person Apache Spark practice.
+Repository for personal Apache Spark practice.
