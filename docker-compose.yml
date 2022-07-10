@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   spark:
-    image: spark
+    build: .
     tty: true
     ports:
       - "8080:8080"
